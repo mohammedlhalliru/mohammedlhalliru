@@ -5,7 +5,9 @@
 <h1 align="center"> Mohammed Labaran Halliru </h1>
 <h3 align="center"> Data Analyst </h3>
 <p align="center">+60-182019227 | mohammedlabaranhalliru@gmail.com </p>
+
 * 🎯 Open to work across the U.S. in Data Analyst
+
 * US Based in the USA & authorized to work without sponsorship. Open to roles across the country.
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammed-labaran-halliru/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="arpitadeblinkedin" height="40" width="40" /></a>

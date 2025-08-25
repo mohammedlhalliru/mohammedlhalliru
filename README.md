@@ -6,9 +6,9 @@
 <h3 align="center"> Data Analyst </h3>
 <p align="center">+60-182019227 | mohammedlabaranhalliru@gmail.com </p>
 
-<h1 align="center">🎯 Open to work across the U.S. in Data Analyst</h1>
+<p align="center">🎯 Open to work across the U.S. in Data Analyst</p>
 
-<h1 align="center"> US Based in the USA & authorized to work without sponsorship. Open to roles across the country.</h3>
+<p align="center"> US Based in the USA & authorized to work without sponsorship. Open to roles across the country.</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammed-labaran-halliru/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="arpitadeblinkedin" height="40" width="40" /></a>
 <a href="[https://kaggle.com/arpitadeb1999](https://www.kaggle.com/mohammedhalliru)" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="arpita deb" height="30" width="50" /></a>

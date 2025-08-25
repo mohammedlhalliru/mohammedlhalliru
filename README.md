@@ -76,11 +76,15 @@
 </p>
 <br><br><br>
 
+
+
 <img align="left" width="250" height="150" src="https://github.com/mohammedlhalliru/mohammedlhallirubackup/blob/main/assets/R-programming.png"> **[Gapminder-Data-Visualization-and-Uncertainty-Analysis-
 ](https://github.com/mohammedlhalliru/Gapminder-Data-Visualization-and-Uncertainty-Analysis)**
 </p> This project explores data visualization techniques to represent uncertainty in global health and economic trends using the Gapminder dataset.
 </p>
 <br><br><br>
+
+
 
 <img align="left" width="250" height="150" src="https://github.com/mohammedlhalliru/New-York-City-Rat-Sighting-Analysis/blob/main/Rats.jfif"> **[New-York-City-Rat-Sighting-Analysis ](https://github.com/mohammedlhalliru/New-York-City-Rat-Sighting-Analysis)**
 </p> This project analyzes and visualizes rat sightings across New York City using R. Leveraging data cleaning, transformation, and visualization techniques, I explored spatial and temporal patterns of rat activity throughout the city.

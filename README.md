@@ -5,6 +5,8 @@
 <h1 align="center"> Mohammed Labaran Halliru </h1>
 <h3 align="center"> Data Analyst </h3>
 <p align="center">+60-182019227 | mohammedlabaranhalliru@gmail.com </p>
+* 🎯 Open to work across the U.S. in Data Analyst
+* US Based in the USA & authorized to work without sponsorship. Open to roles across the country.
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammed-labaran-halliru/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="arpitadeblinkedin" height="40" width="40" /></a>
 <a href="[https://kaggle.com/arpitadeb1999](https://www.kaggle.com/mohammedhalliru)" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="arpita deb" height="30" width="50" /></a>
@@ -15,7 +17,7 @@
 
 <p align="center">
   <em>
- As a curious Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Power BI, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve while also enjoy the process. This Portfolio showcases the Data Analysis and Data Science projects I have completed for my internships and self-learning purposes.
+ As a curious Data Analyst (certified by IBM), I possess expertise in Spreadsheets, SQL, R, Python, and Power BI, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve while also enjoy the process. This Portfolio showcases the Data Analysis and Data Science projects I have completed for my internships and self-learning purposes.
 <br><br><br>
 
 </p>

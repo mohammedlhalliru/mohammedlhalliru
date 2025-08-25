@@ -82,6 +82,12 @@
 </p>
 <br><br><br>
 
+<img align="left" width="250" height="150" src="https://github.com/mohammedlhalliru/New-York-City-Rat-Sighting-Analysis/blob/main/Rats.jfif"> **[New-York-City-Rat-Sighting-Analysis ](https://github.com/mohammedlhalliru/New-York-City-Rat-Sighting-Analysis)**
+</p> This project analyzes and visualizes rat sightings across New York City using R. Leveraging data cleaning, transformation, and visualization techniques, I explored spatial and temporal patterns of rat activity throughout the city.
+</p>
+<br><br><br>
+
+
 
 <!--
 **mohammedlhalliru/mohammedlhalliru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

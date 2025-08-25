@@ -92,7 +92,10 @@
 <br><br><br>
 
 
-
+<img align="left" width="250" height="150" src="https://github.com/mohammedlhalliru/Optimizing-Orders-in-Restaurant/blob/main/python.png"> **[Optimizing-Orders-in-Restaurant](https://github.com/mohammedlhalliru/Optimizing-Orders-in-Restaurant/tree/main)**
+</p> This project focused on improving restaurant order management systems through Python-based solutions. By applying data-driven strategies, the project streamlined order processing, reduced customer wait times, and enhanced overall service flow.
+</p>
+<br><br><br>
 <!--
 **mohammedlhalliru/mohammedlhalliru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

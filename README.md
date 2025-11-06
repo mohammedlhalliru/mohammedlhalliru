@@ -3,7 +3,7 @@
 
 </p>
 <h1 align="center"> Mohammed Labaran Halliru </h1>
-<h3 align="center"> Data Analyst </h3>
+<h3 align="center"> Data Analyst | Business Inteligence Analyst | Business Analyst </h3>
 <p align="center">+60-182019227 | mohammedlabaranhalliru@gmail.com </p>
 
 <p align="center">🎯 Open to work across the U.S. in Data Analyst</p>

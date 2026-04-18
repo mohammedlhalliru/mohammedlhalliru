@@ -6,7 +6,7 @@
 <h3 align="center"> Data Analyst | Business Inteligence Analyst | Business Analyst </h3>
 <p align="center">+60-182019227 | mohammedlabaranhalliru@gmail.com </p>
 
-<p align="center">🎯 Open to work across the U.S. in Data Analyst</p>
+<p align="center">🎯 Open to work across the U.S. in Data Analyst/Business Analyst/business Intelligence Analyst/Power BI Developer </p>
 
 <p align="center"> Open to roles across the country.</p>
 <p align="center">

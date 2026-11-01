@@ -1,112 +1,105 @@
+<div align="center">
 
-<p align="center">
+# Mohammed Labaran Halliru
 
-</p>
-<h1 align="center"> Mohammed Labaran Halliru </h1>
-<h3 align="center"> Data Analyst | Business Inteligence Analyst | Business Analyst </h3>
-<p align="center">+60-182019227 | mohammedlabaranhalliru@gmail.com </p>
+### Business Intelligence Analyst | Business Operations & Analytics | Power BI Developer
 
-<p align="center">🎯 Open to work across the U.S. in Data Analyst/Business Analyst/business Intelligence Analyst/Power BI Developer </p>
+**Turning complex data into clear insights, actionable dashboards, and better business decisions.**
 
-<p align="center"> Open to roles across the country.</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/mohammed-labaran-halliru/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="arpitadeblinkedin" height="40" width="40" /></a>
-<a href="[https://kaggle.com/arpitadeb1999](https://www.kaggle.com/mohammedhalliru)" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="arpita deb" height="30" width="50" /></a>
-<a href="https://public.tableau.com/app/profile/mohammed.halliru/vizzes" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1024x704.png" alt="tableau" height="50" width="60" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-labaran-halliru/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:hallibross@live.com)
+[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mohammed.halliru/vizzes)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/mohammedhalliru)
 
-</p>
-</p>
+**Based in Boston, MA | Open to U.S. analytics opportunities**
 
-<p align="center">
-  <em>
- As a curious Data Analyst (certified by IBM), I possess expertise in Spreadsheets, SQL, R, Python, and Power BI, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve while also enjoy the process. This Portfolio showcases the Data Analysis and Data Science projects I have completed for my internships and self-learning purposes.
-<br><br><br>
+</div>
 
-</p>
-<img align="right" width=450px height=300px alt="side_sticker" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif"/>
+---
 
-<img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***About me in 30 Seconds***
+## About Me
 
-* Learn about me with this short [video resume]().
+I'm a business intelligence and operations analytics professional with 8+ years of experience using data to improve reporting, operational visibility, and business decision-making. My background spans business intelligence, airline operations, quality analytics, and performance reporting.
 
-* I've recently completed Data Analyst Internships at INNOVEST AFRIKA Texas USA.
-  
-* My Data Analysis toolkit includes Excel, SQL, Python, Alteryx, Tableau, Power BI and R Programming Language.
-  
-* I have a [Bachelor's Degree](https://drive.google.com/file/d/1pVwHnOhrnSfkn_r5hXM8lVKNhLj3KxNY/view?usp=drive_link) in Business & Management.
-  
-* * I have a [Master's Degree](https://drive.google.com/file/d/1WkLv_BWG0xSA8OKGD8dcVdWza8y64Qm5/view?usp=drive_link) in Business Analytics.
+I build dashboards and analytical workflows with **Power BI, SQL, Python, and Excel**, combining technical analysis with stakeholder collaboration and clear executive communication. I hold an **MS in Business Analytics from Hult International Business School**.
 
-* When I'm not analyzing data, I read, Travel, Do photograph or learn new skills.
-  
-<br><br><br>
+My work includes developing KPI reporting across multiple regions, improving reporting consistency, and automating recurring executive reporting workflows.
 
-<img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***My working tools***
-<p align="left">
-<code><img width = "100" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-<code><img  width="50" src="https://th.bing.com/th/id/OIP.ZoqKs96cGI7oDM6AxUR5AgHaHa?pid=ImgDet&rs=1"></code>
-<code><img width="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<code><img width="75" src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png"></code>
-<code><img width="75" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-<code><img width="130" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"> </code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
-</p>
-<br><br><br>
+## Technical Toolkit
 
-<img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***Core Competencies***
-<p align="left"/>
+| Area | Tools & Capabilities |
+| --- | --- |
+| Business Intelligence | Power BI, DAX, Power Query, Tableau, IBM Cognos |
+| Data Analysis | SQL, Python (pandas, NumPy, scikit-learn), R, advanced Excel |
+| Databases & Platforms | SQL Server, PostgreSQL, Snowflake, AWS Athena, Oracle |
+| Analytics Methods | Data cleaning, EDA, forecasting, KPI development, statistical analysis, machine learning |
+| Business & Operations | Workforce and productivity analytics, executive reporting, process improvement, requirements gathering, data validation |
 
-  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Customer Segmentation, RFM Analysis, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, Time Series Analysis.
+## Featured Projects
 
-  * **Technical Skills**: Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau, Datawrapper, Alteryx.
+### 1. Hospital Workforce Optimization & Operations Analytics
 
-  * **Soft Skills**: Critical and Analytical Thinking skills, Problem Solving skills, Verbal and Written Communication, Attention to Detail, Fast Learner, Independent and Self Motivated. 
-</p>
-<br><br>
+**Power BI · SQL · Python · Excel · Workforce Analytics**
 
-## Projects
+A portfolio case study using **synthetic hospital operations data** to explore attendance, staffing coverage, overtime, labor costs, and productivity. Designed around the reporting needs of healthcare operations leaders.
 
-<img align="left" width="250" height="150" src="https://github.com/mohammedlhalliru/mohammedlabaranhalliru-mohammedlabaranhalliru/blob/main/assets/IBM%20Logo.jpg"> **[IBM-Data-Analyst-Capstone-Project-
-](https://github.com/mohammedlhalliru/IBM-Data-Analyst-Capstone-Project-)**
-</p> Final project for the IBM Data Analyst Professional Certificate. Covers data collection, wrangling, exploratory analysis, visualization, and dashboarding. Tools used: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Cognos Analytics. Demonstrates end-to-end data analysis workflow with real-world datasets.
-</p>
-<br><br><br>
+**Project deliverables:** reproducible data generation, SQL analysis, Excel reporting, executive presentation, and Power BI implementation guidance.
 
+> **Status:** Portfolio package prepared; interactive Power BI report is not yet published. Add a repository link here after uploading the project.
 
+### 2. Airline On-Time Performance Analytics
 
-<img align="left" width="250" height="150" src="https://github.com/mohammedlhalliru/mohammedlhallirubackup/blob/main/assets/R-programming.png"> **[Gapminder-Data-Visualization-and-Uncertainty-Analysis-
-](https://github.com/mohammedlhalliru/Gapminder-Data-Visualization-and-Uncertainty-Analysis)**
-</p> This project explores data visualization techniques to represent uncertainty in global health and economic trends using the Gapminder dataset.
-</p>
-<br><br><br>
+**SQL · AWS Athena · Operational Analytics**
 
+Analysis of airline performance patterns and operational trends, with an emphasis on identifying bottlenecks and translating findings into decisions.
 
+> Add repository link once published or verified.
 
-<img align="left" width="250" height="150" src="https://github.com/mohammedlhalliru/New-York-City-Rat-Sighting-Analysis/blob/main/Rats.jfif"> **[New-York-City-Rat-Sighting-Analysis ](https://github.com/mohammedlhalliru/New-York-City-Rat-Sighting-Analysis)**
-</p> This project analyzes and visualizes rat sightings across New York City using R. Leveraging data cleaning, transformation, and visualization techniques, I explored spatial and temporal patterns of rat activity throughout the city.
-</p>
-<br><br><br>
+### 3. IBM Data Analyst Capstone Project
 
+**Python · SQL · IBM Cognos · Data Visualization**
 
-<img align="left" width="250" height="150" src="https://github.com/mohammedlhalliru/Optimizing-Orders-in-Restaurant/blob/main/python.png"> **[Optimizing-Orders-in-Restaurant](https://github.com/mohammedlhalliru/Optimizing-Orders-in-Restaurant/tree/main)**
-</p> This project focused on improving restaurant order management systems through Python-based solutions. By applying data-driven strategies, the project streamlined order processing, reduced customer wait times, and enhanced overall service flow.
-</p>
-<br><br><br>
-<!--
-**mohammedlhalliru/mohammedlhalliru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An end-to-end analytics project covering data collection, cleaning, exploratory analysis, visualization, and dashboard development.
 
-Here are some ideas to get you started:
+[View project](https://github.com/mohammedlhalliru/IBM-Data-Analyst-Capstone-Project-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 4. Restaurant Order Optimization
+
+**Python · Operational Analysis**
+
+Analysis of restaurant order patterns and operational performance to identify opportunities for more efficient service and better decision-making.
+
+[View project](https://github.com/mohammedlhalliru/Optimizing-Orders-in-Restaurant)
+
+## Additional Projects
+
+- [Gapminder Data Visualization & Uncertainty Analysis](https://github.com/mohammedlhalliru/Gapminder-Data-Visualization-and-Uncertainty-Analysis) — exploring global health and economic trends through data visualization.
+- [New York City Rat Sighting Analysis](https://github.com/mohammedlhalliru/New-York-City-Rat-Sighting-Analysis) — using R to investigate spatial and temporal patterns in public-service data.
+
+## What I Bring to Analytics Teams
+
+- **Business-focused reporting:** KPI dashboards, scorecards, executive summaries, and recurring reporting automation.
+- **Operational insight:** productivity, quality, staffing, and performance analysis that supports practical decisions.
+- **Data reliability:** validation, reconciliation, documentation, and consistent metric definitions.
+- **Cross-functional collaboration:** translating business needs into clear analytical requirements and usable reporting tools.
+
+## Education & Professional Development
+
+- **Master of Science in Business Analytics** — Hult International Business School (2025)
+- **Bachelor's Degree in Business & Administration** — University of Sunderland
+- **IBM Data Analyst Professional Certificate coursework / capstone** and additional training in Power BI, SQL, Python, and R
+- **IIBA Member**
+
+## Let's Connect
+
+I'm interested in **Business Intelligence Analyst, Business Analyst, Data Analyst, Power BI Developer, and Business Operations & Analytics** opportunities across the United States.
+
+- [LinkedIn](https://www.linkedin.com/in/mohammed-labaran-halliru/)
+- [Tableau Public](https://public.tableau.com/app/profile/mohammed.halliru/vizzes)
+- [Kaggle](https://www.kaggle.com/mohammedhalliru)
+- **Email:** hallibross@live.com
+
+---
+
+<div align="center"><sub>Portfolio projects are for demonstration and learning. Synthetic datasets are labeled; business results are presented with their original context.</sub></div>
+

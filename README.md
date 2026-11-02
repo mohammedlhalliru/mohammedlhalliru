@@ -1,0 +1,192 @@
+[README (8).md](https://github.com/user-attachments/files/34269386/README.8.md)
+## Hi there 👋
+
+<div align="center">
+
+# Mohammed Labaran Halliru
+
+### Business Intelligence Analyst · Data Analyst · Power BI Developer
+
+**Turning complex data into clear insights, actionable dashboards, and better business decisions.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohammedlhalliru&label=Profile%20Views&color=1f4e79&style=flat-square)
+![Location](https://img.shields.io/badge/Based%20in-Boston%2C%20MA-17365D?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20to-U.S.%20Analytics%20Opportunities-2E7D67?style=flat-square)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-labaran-halliru/)
+[![Email](https://img.shields.io/badge/Email-Contact-17365D?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:hallibross@live.com)
+[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mohammed.halliru/vizzes)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Projects-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohammedhalliru)
+
+</div>
+
+---
+
+## About Me
+
+I am a **business intelligence and operations analytics professional** with 8+ years of experience across airline operations, quality assurance, business reporting, and analytics. I combine operational knowledge with **Power BI, SQL, Python, R, and Excel** to build reliable reporting, investigate performance drivers, and communicate insights to stakeholders.
+
+I hold a **Master of Science in Business Analytics from Hult International Business School** and am continuing my professional development through an Executive MBA. My interests include workforce analytics, customer experience, operational efficiency, and business performance measurement.
+
+### Business Impact
+
+- **Reduced an airline operations backlog from four days to approximately 24 hours** through process and performance improvements.
+- **Improved team productivity by approximately 30%**, first-contact resolution by 25%, and customer satisfaction by 20% in prior airline operations roles.
+- **Reduced customer complaints by approximately 40%** through quality monitoring and operational improvements.
+- Led and supported **teams of 30+ agents** in round-the-clock service operations.
+
+*These figures summarize previously reported professional results; see my résumé or LinkedIn for employment context.*
+
+---
+
+## Technical Toolkit
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-17365D?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+| Focus | Skills and tools |
+| :--- | :--- |
+| **Business intelligence** | Power BI, DAX, Power Query, Tableau, IBM Cognos, executive dashboards |
+| **Analytics and programming** | SQL, Python (pandas, NumPy, scikit-learn), R, advanced Excel |
+| **Data platforms** | PostgreSQL, SQL Server, Snowflake, AWS Athena, Oracle fundamentals |
+| **Analytics methods** | Data cleaning, exploratory analysis, KPI design, statistical analysis, forecasting, machine learning |
+| **Business collaboration** | Requirements gathering, stakeholder communication, QA, root-cause analysis, process improvement |
+
+---
+
+## Featured Projects
+
+### 01 · Workforce Scheduling & Availability Analytics
+
+[![Workforce Scheduling repository](https://github-readme-stats.vercel.app/api/pin/?username=mohammedlhalliru&repo=Workforce-Scheduling-Analytics&theme=default&hide_border=false)](https://github.com/mohammedlhalliru/Workforce-Scheduling-Analytics)
+
+**Power BI · Power Query · DAX · Workforce Analytics**  
+A workforce scheduling portfolio project examining shift coverage, workload distribution, and employee availability alignment. The project materials describe 590 shifts, 2,688 scheduled hours, and a 74.66% availability match rate in a synthetic dataset.
+
+[Explore repository](https://github.com/mohammedlhalliru/Workforce-Scheduling-Analytics)
+
+### 02 · IBM HR Analytics: Employee Attrition & Performance
+
+[![IBM HR Analytics repository](https://github-readme-stats.vercel.app/api/pin/?username=mohammedlhalliru&repo=IBM-HR-Analytics-Employee-Attrition-Performance&theme=default&hide_border=false)](https://github.com/mohammedlhalliru/IBM-HR-Analytics-Employee-Attrition-Performance)
+
+**HR Analytics · Power BI · Employee Retention**  
+Exploration of employee attrition, departmental differences, compensation, and retention-related patterns using the public IBM HR Analytics sample dataset. Project attribution and original versus independently developed components should remain clear in the repository.
+
+[Explore repository](https://github.com/mohammedlhalliru/IBM-HR-Analytics-Employee-Attrition-Performance)
+
+### 03 · HR Analytics
+
+[![HR Analytics repository](https://github-readme-stats.vercel.app/api/pin/?username=mohammedlhalliru&repo=HR-Analytics-&theme=default&hide_border=false)](https://github.com/mohammedlhalliru/HR-Analytics-)
+
+**People Analytics · Retention Insights**  
+A companion repository focused on HR data exploration and employee turnover insights.
+
+[Explore repository](https://github.com/mohammedlhalliru/HR-Analytics-)
+
+### 04 · Optimizing Orders in Restaurant
+
+[![Restaurant Analytics repository](https://github-readme-stats.vercel.app/api/pin/?username=mohammedlhalliru&repo=Optimizing-Orders-in-Restaurant&theme=default&hide_border=false)](https://github.com/mohammedlhalliru/Optimizing-Orders-in-Restaurant)
+
+**Operations Analytics · Customer Demand · Data Visualization**  
+Analysis of restaurant ordering patterns to explore demand, service operations, and opportunities for better resource allocation.
+
+[Explore repository](https://github.com/mohammedlhalliru/Optimizing-Orders-in-Restaurant)
+
+### 05 · IBM Data Analyst Capstone
+
+[![IBM Capstone repository](https://github-readme-stats.vercel.app/api/pin/?username=mohammedlhalliru&repo=IBM-Data-Analyst-Capstone-Project-&theme=default&hide_border=false)](https://github.com/mohammedlhalliru/IBM-Data-Analyst-Capstone-Project-)
+
+**Python · Data Preparation · Exploratory Analysis · Visualization**  
+An end-to-end capstone covering data collection, cleaning, analysis, and communicating insights.
+
+[Explore repository](https://github.com/mohammedlhalliru/IBM-Data-Analyst-Capstone-Project-)
+
+### 06 · New York City Rat Sighting Analysis
+
+[![NYC Rat Sightings repository](https://github-readme-stats.vercel.app/api/pin/?username=mohammedlhalliru&repo=New-York-City-Rat-Sighting-Analysis&theme=default&hide_border=false)](https://github.com/mohammedlhalliru/New-York-City-Rat-Sighting-Analysis)
+
+**Public Data · Exploratory Analysis · Urban Analytics**  
+Investigating reported rat sightings in New York City to explore patterns in public-service data.
+
+[Explore repository](https://github.com/mohammedlhalliru/New-York-City-Rat-Sighting-Analysis)
+
+### 07 · Gapminder Data Visualization & Uncertainty Analysis
+
+[![Gapminder repository](https://github-readme-stats.vercel.app/api/pin/?username=mohammedlhalliru&repo=Gapminder-Data-Visualization-and-Uncertainty-Analysis&theme=default&hide_border=false)](https://github.com/mohammedlhalliru/Gapminder-Data-Visualization-and-Uncertainty-Analysis)
+
+**Statistical Visualization · Global Development · Uncertainty**  
+Exploring development indicators and communicating data patterns with attention to uncertainty.
+
+[Explore repository](https://github.com/mohammedlhalliru/Gapminder-Data-Visualization-and-Uncertainty-Analysis)
+
+> **Project preview note:** The cards above pull repository information dynamically from GitHub. For richer visual previews, add a real screenshot to each project repository and embed it here using `![Project screenshot](https://raw.githubusercontent.com/mohammedlhalliru/REPOSITORY/main/screenshots/IMAGE.png)` after confirming the exact path.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedlhalliru&show_icons=true&theme=default&hide_border=false&rank_icon=github)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedlhalliru&layout=compact&theme=default&hide_border=false)
+
+</div>
+
+*GitHub activity widgets are provided by a third-party service and may occasionally fail to load. Language statistics describe public repository contents, not overall professional proficiency.*
+
+---
+
+## Education & Professional Development
+
+- **MS, Business Analytics** — Hult International Business School (2025)
+- **Executive MBA** — New England College (in progress)
+- **Bachelor's degree, Business & Administration** — University of Sunderland
+- **IBM Data Analyst Professional Certificate**
+- **IIBA member**
+
+---
+
+## Let's Connect
+
+I am interested in **Business Intelligence Analyst, Data Analyst, Business Analyst, Power BI Developer, and Business Operations Analytics** opportunities across the United States.
+
+- **LinkedIn:** [mohammed-labaran-halliru](https://www.linkedin.com/in/mohammed-labaran-halliru/)
+- **Tableau Public:** [My dashboards](https://public.tableau.com/app/profile/mohammed.halliru/vizzes)
+- **Kaggle:** [mohammedhalliru](https://www.kaggle.com/mohammedhalliru)
+- **GitHub:** [mohammedlhalliru](https://github.com/mohammedlhalliru)
+- **Email:** [hallibross@live.com](mailto:hallibross@live.com)
+
+<div align="center">
+
+---
+
+<sub>Portfolio analyses use public or synthetic data where indicated. Dataset sources and third-party contributions should be credited within their respective repositories.</sub>
+
+</div>
+<!--
+**mohammedlhalliru/mohammedlhalliru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
